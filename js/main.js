@@ -3,6 +3,6 @@
 }(function (func) {
 
     })
-);
+); // test comment by CWW  asdfasdfasdfasdf
 
 
