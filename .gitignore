@@ -62,4 +62,4 @@ typings/
 
 # CWW added - ignore .idea folder
 /.idea/
-
+.idea/workspace.xml
