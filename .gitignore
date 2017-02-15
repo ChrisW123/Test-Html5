@@ -60,4 +60,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# CWW added - ignore .idea folder
+/.idea/
 
