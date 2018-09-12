@@ -12,7 +12,8 @@
 
 html {
     color: #333;
-    font-size: 1em;
+    font-size: 14;
+    /* cww - disabled: 2em;*/
     line-height: 2.4;
 }
 
