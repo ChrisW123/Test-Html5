@@ -6,3 +6,4 @@ Here are my local changes.  Not sure if after the Pull the server changes will b
 
 And another local line that I have added.
 
+This change added in github. We will see how it merges with my local changes when I pull this change.
